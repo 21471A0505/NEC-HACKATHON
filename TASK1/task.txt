@@ -1,0 +1,13 @@
+HACKATHON TASKS
+
+## Tasks
+
+### 1. Dice in Canvas
+
+*Description*: Create a dice that shows numbers from 1 to 6 on a canvas. When the user presses the space key on the keyboard, a random number should be selected and displayed on the canvas.
+
+*Requirements*:
+
+- Use the HTML5 Canvas API to draw the dice.
+- Implement JavaScript to handle the space key press event and generate a random number between 1 and 6.
+- Display the random number on the canvas.

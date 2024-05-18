@@ -1,0 +1,10 @@
+### 2. Expense Tracker 
+
+*Description*: Develop an expense tracker application that allows users to add, view, and manage their expenses.
+
+*Requirements*:
+
+- Create a form to input expense details (amount, category, date, etc.).
+- Display the list of expenses in a tabular format.
+- Implement functionalities to edit and delete expenses.
+- Optionally, you can add a feature to categorize expenses and show a summary of expenses by category.
